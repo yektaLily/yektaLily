@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Data structures and Algorithms, prepping for interviews!**
 
-- 🤝 I’m looking for help with **People who wanna get into academia or have questions about navigating grad school!**
-
 - 👨‍💻 My PhD Dissertation is available at [https://01979e7f-58a6-c4c3-0703-8d1fcc30509f.share.connect.posit.cloud/](https://01979e7f-58a6-c4c3-0703-8d1fcc30509f.share.connect.posit.cloud/)
 
 - 💬 Ask me about **Machine Learning, Statistics and Math!**
 
-- 📫 How to reach me **Linked in is the best**
+- 📫 How to reach me **LinkedIn!**
 
 - ⚡ Fun fact **I like Kpop!**
 
