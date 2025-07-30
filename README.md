@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yekta</h1>
+<h1 align="center">Hi 👋, I'm Yekta (She/Her/Hers) </h1>
 <h3 align="center"> 💫 A curious life-long learner with way too many interests</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yektalily&label=Profile%20views&color=0e75b6&style=flat" alt="yektalily" /> </p>
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning, Statistics and Math!**
 
-- 📫 How to reach me **LinkedIn!**
+- 📫 How to reach me **![LinkedIn](https://www.linkedin.com/in/yektaamirkhalili/)!**
 
 - ⚡ Fun fact **I like Kpop!**
 
