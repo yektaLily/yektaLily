@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning, Statistics and Math!**
 
-- 📫 How to reach me **![LinkedIn](https://www.linkedin.com/in/yektaamirkhalili/)!**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/yektaamirkhalili/)!**
 
 - ⚡ Fun fact **I like Kpop!**
 
