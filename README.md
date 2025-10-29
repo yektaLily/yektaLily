@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yektalily&label=Profile%20views&color=0e75b6&style=flat" alt="yektalily" /> </p>
 
-- 🔭 I’m currently working on **Finishing my doctorate at University of Waterloo in Management Science & Engineering**
+- 🔭 **PhD Graduate at University of Waterloo, Management Science & Engineering**
 
-- 🌱 I’m currently learning **Data structures and Algorithms, prepping for interviews!**
+- 🌱 I am currently working at **Definity** as a Senior Data Specialist. 
 
-- 👨‍💻 My PhD Dissertation is available at [https://01979e7f-58a6-c4c3-0703-8d1fcc30509f.share.connect.posit.cloud/](https://01979e7f-58a6-c4c3-0703-8d1fcc30509f.share.connect.posit.cloud/)
+- 👨‍💻 My PhD Dissertation is available at [https://01979e7f-58a6-c4c3-0703-8d1fcc30509f.share.connect.posit.cloud/](https://01979e7f-58a6-c4c3-0703-8d1fcc30509f.share.connect.posit.cloud/) --- Be warned though, I have not implemented the changes from post-defense! 
 
 - 💬 Ask me about **Machine Learning, Statistics and Math!**
 
